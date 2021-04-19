@@ -26,8 +26,7 @@ Follow the below instructiosn to Run this code:
   - `pipenv install`
 - Go to `src` directory
   - `cd ec2-metadata-and-get-value/src`
-  -` pip3 install requests`
-  
+  - `pip3 install requests`
   
 - Run Challenge2 Script:
   - `python3 get_ec2_metadata.py`
